@@ -340,6 +340,10 @@ button {
   padding-bottom: 120px;
 }
 
+.cstmrs-header {
+  margin-bottom: 72px;
+}
+
 .customers-list {
   display: flex;
   justify-content: center;
@@ -362,7 +366,8 @@ button {
 }
 
 .customers-icon {
-fill: #AFB1B8;}
+  fill: #afb1b8;
+}
 
 /*Portfolio*/
 .division {
