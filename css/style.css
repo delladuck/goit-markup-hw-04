@@ -452,7 +452,7 @@ button {
 
 .ft-left,
 .ft-sm {
-  display: block;
+  display: inline;
   width: 264px;
 }
 
