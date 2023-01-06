@@ -365,6 +365,11 @@ button {
   fill: #afb1b8;
 }
 
+.customers-icon:hover,
+.customers-icon:focus {
+  fill: var(--primary-brand-color);
+}
+
 /*Portfolio*/
 .division {
   border-top: 1px solid #e7e9fc;
