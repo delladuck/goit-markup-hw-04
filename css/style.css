@@ -453,6 +453,7 @@ button {
 .ft-left,
 .ft-sm {
   display: block;
+  width: 264px;
 }
 
 .ft-logo {
