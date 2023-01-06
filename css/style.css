@@ -336,6 +336,11 @@ button {
   justify-content: center;
 }
 
+.soc-item-link:hover,
+.ft-soc-item-link:focus {
+  background-color: #404bbf;
+}
+
 .soc-icon {
   fill: #f4f4fd;
 }
@@ -352,14 +357,6 @@ button {
   justify-content: center;
   gap: 24px;
 }
-/*
-.customers-item {
-  width: 168px;
-  height: 88px;
-  padding: 16px 32px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-}*/
 
 .customers-item-link {
   width: 168px;
@@ -372,14 +369,7 @@ button {
   align-items: center;
   justify-content: center;
 }
-/*
-.customers-icon {
-}
-.customers-icon:hover,
-.customers-icon:focus {
-  fill: var(--primary-brand-color);
-}
-*/
+
 .customers-item-link:hover,
 .customers-item-link:focus {
   fill: var(--primary-brand-color);
@@ -466,8 +456,8 @@ button {
 }
 
 .ft-boxes {
-    display: flex;
-    gap: 120px;
+  display: flex;
+  gap: 120px;
 }
 
 .ft-logo {
@@ -504,4 +494,9 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.ft-soc-item-link:hover,
+.ft-soc-item-link:focus {
+  background: #31d0aa;
 }
