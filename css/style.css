@@ -452,7 +452,7 @@ button {
 
 .ft-left,
 .ft-sm {
-  display: inline;
+  display: inline-block;
   width: 264px;
 }
 
@@ -478,7 +478,7 @@ button {
 .ft-soc-items-list {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
   margin-top: 16px;
 }
 
