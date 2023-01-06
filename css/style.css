@@ -465,8 +465,9 @@ button {
   background-color: var(--header-color);
 }
 
-.ft-left,
-.ft-sm {
+.ft-boxes {
+    display: flex;
+    gap: 120px;
 }
 
 .ft-logo {
