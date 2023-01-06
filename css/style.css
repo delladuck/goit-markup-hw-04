@@ -332,7 +332,18 @@ button {
 }
 
 .soc-icon {
-   fill: #F4F4FD;
+  fill: #f4f4fd;
+}
+
+.customers {
+  padding-top: 130px;
+  padding-bottom: 120px;
+}
+
+.customers-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 
 /*Portfolio*/
