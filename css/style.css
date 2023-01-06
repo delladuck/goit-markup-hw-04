@@ -329,6 +329,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
+  fill: #F4F4FD;
 }
 
 /*Portfolio*/
