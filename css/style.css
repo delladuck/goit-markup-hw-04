@@ -361,6 +361,9 @@ button {
   justify-content: center;
 }
 
+.customers-icon {
+fill: #AFB1B8;}
+
 /*Portfolio*/
 .division {
   border-top: 1px solid #e7e9fc;
