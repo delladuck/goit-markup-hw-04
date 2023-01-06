@@ -475,7 +475,7 @@ button {
   color: #ffffff;
 }
 
-.ft-soc-item-list {
+.ft-soc-items-list {
   display: flex;
   justify-content: center;
   gap: 24px;
