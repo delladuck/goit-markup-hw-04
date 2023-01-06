@@ -450,6 +450,11 @@ button {
   background-color: var(--header-color);
 }
 
+.ft-left,
+.ft-sm {
+  display: block;
+}
+
 .ft-logo {
   margin-bottom: 16px;
 }
@@ -460,10 +465,6 @@ button {
 
 .tagline {
   color: #e7e9fc;
-}
-
-.footer-sm {
-  display: block;
 }
 
 .social-media-text {
