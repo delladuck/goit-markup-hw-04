@@ -233,6 +233,10 @@ button {
   margin-bottom: 8px;
 }
 
+.bnft-item-text {
+  width: 264px;
+}
+
 .bnfts-box {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -253,6 +257,7 @@ button {
 .benefits {
   display: flex;
   justify-content: space-between;
+  gap: 24px;
 }
 
 .third-header {
@@ -462,8 +467,6 @@ button {
 
 .ft-left,
 .ft-sm {
- 
-  
 }
 
 .ft-logo {
