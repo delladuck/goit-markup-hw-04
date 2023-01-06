@@ -462,6 +462,17 @@ button {
   color: #e7e9fc;
 }
 
+.footer-sm {
+  display: block;
+}
+
+.social-media-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+}
+
 .ft-soc-item-list {
   display: flex;
   justify-content: center;
@@ -478,4 +489,3 @@ button {
   align-items: center;
   justify-content: center;
 }
-
